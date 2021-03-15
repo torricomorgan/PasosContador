@@ -1,5 +1,4 @@
-﻿
-namespace ApiColector.Models
+﻿namespace FunctionAppOdometro.Models
 {
     using System;
     using System.ComponentModel.DataAnnotations;
