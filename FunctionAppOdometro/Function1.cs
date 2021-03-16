@@ -17,7 +17,7 @@ namespace FunctionAppOdometro
             var smtpClient = new SmtpClient("smtp.gmail.com")
             {
                 Port = 587,
-                Credentials = new NetworkCredential("a2016114304@estudiantes.upsa.edu.bo", "SS@1Kd@9WcPy"),
+                Credentials = new NetworkCredential("a2016114304@estudiantes.upsa.edu.bo", "**********"),
                 EnableSsl = true,
             };
          
